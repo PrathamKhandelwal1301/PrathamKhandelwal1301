@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @PrathamKhandelwal1301
 - 👀 I’m interested in Full-Stack web development
 - 🌱 I’m currently learning full stack web development
-- 📫 How to reach me through my email: prathamkhandelwal1320@gmail.com
-- and also through my social instagram - _.pratham.1301._
+- 📫 How to reach me through my email: prathamkhandelwal1320@gmail.com and also through my social instagram - _.pratham.1301._
 - also i am currently a student in Thapar Institute of Engineering and Technology and studying Electronics and Computer Engineeering.
 
 <!---
